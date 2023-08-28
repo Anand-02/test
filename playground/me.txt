@@ -1,5 +1,0 @@
-{{#user}}
-Name: Anand
-Skills: HTML, CSS, JS, Next.js, Golang, Node.js, MongoDB, Blockchain
-Email: aks858271@gmail.com
-{{/user}}
